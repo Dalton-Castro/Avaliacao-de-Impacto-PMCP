@@ -2,7 +2,7 @@
 
 ## Uma Avaliação de Impacto do Programa Mãe Coruja Pernambucana (PMCP) Sobre o Desempenho Escolar das Crianças
 
-### Link dos Notebooks no nbviewer.org para visualização alternativa do projeto:
+### Link dos Notebooks no nbviewer.org para visualização do projeto:
 
 https://nbviewer.org/github/Dalton-Castro/Avaliacao-de-Impacto-PMCP/blob/main/1-Tratamento_Inicial_dos_Dados.ipynb
 
